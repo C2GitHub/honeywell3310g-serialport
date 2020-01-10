@@ -1,0 +1,24 @@
+{
+  "name": "honeywell3310g-serialport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C2GitHub/honeywell3310g-serialport.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/C2GitHub/honeywell3310g-serialport/issues"
+  },
+  "homepage": "https://github.com/C2GitHub/honeywell3310g-serialport#readme",
+  "dependencies": {
+    "iohook": "^0.6.2",
+    "serialport": "^8.0.6"
+  }
+}
